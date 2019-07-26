@@ -1,11 +1,3 @@
-/*
-
-Name: Kunal Baran Maiti, JHED ID: kmaiti1, CSF Spring 2019, Prog Assignment 4 (Assembler)
-
-asm.cpp - Assembler for a file containing a textual SCRAM program.
-
-*/
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
