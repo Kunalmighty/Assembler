@@ -1,6 +1,8 @@
 # Assembler
 A program in C++ that assembles a SCRAM program from an assembler level description.  
-The extended SCRAM instruction set is decoded. 
+The extended SCRAM instruction set is decoded: 
+
+![Extended SCRAM Instruction Set](https://github.com/Kunalmighty/Simulator/blob/master/instructionSet.png)
 
 Input format:
 -------------
